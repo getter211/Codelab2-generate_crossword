@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\generate_crossword\build\windows\x64\CMakeFiles\8d4e9b34479eaac454649f7329822a11\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{435FD585-37B6-39CA-BC11-0D1E21E82A3E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

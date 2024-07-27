@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\generate_crossword\build\windows\x64\CMakeFiles\7fdd2ab3a62ae47f54c24cfb18c34b22\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\generate_crossword\build\windows\x64\CMakeFiles\4b0293757f16f68aa113b573dab58180\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\generate_crossword\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\generate_crossword\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{435FD585-37B6-39CA-BC11-0D1E21E82A3E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

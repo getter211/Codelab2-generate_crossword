@@ -1,0 +1,10 @@
+^C:\USERS\JEREMI ALONZO\DESKTOP\PRACTICAS-FLUTTER\PRACTICAS-FLUTTER\GENERATE_CROSSWORD\BUILD\WINDOWS\X64\CMAKEFILES\EAF856D9F04CDF2A090569ECD8190EAD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/generate_crossword/windows" "-BC:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/generate_crossword/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/generate_crossword/build/windows/x64/generate_crossword.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

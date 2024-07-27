@@ -1,0 +1,1 @@
+ C:\\Users\\Jeremi\ Alonzo\\Desktop\\practicas-flutter\\practicas-flutter\\generate_crossword\\.dart_tool\\flutter_build\\02344fcbd49bdca3d0571acf8348041b\\native_assets.yaml: 
